@@ -1,3 +1,3 @@
 # hello-world
 First projects in various languages
-This is my second attempt at a pull request to merge into main. Fingers crossed....no conflicts
+The pull and merge was successful the 2nd time around. This is an attempt to upload to github from my local computer's repo.
