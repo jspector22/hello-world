@@ -1,3 +1,3 @@
 # hello-world
 First projects in various languages
-Just making sure this updates
+One last update to make sure i understand commits and git push to main
